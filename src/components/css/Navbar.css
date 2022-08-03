@@ -1,0 +1,10 @@
+.navbar {
+  background: #f0ebcc !important;
+  padding: 2rem 13rem;
+}
+.nav-link {
+  font-family: "Open Sans", sans-serif;
+}
+.nav-item {
+  padding: 0rem 0.5rem;
+}

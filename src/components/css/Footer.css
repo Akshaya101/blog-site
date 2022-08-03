@@ -1,0 +1,24 @@
+#footer {
+  text-align: center;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #f0ebcc !important;
+}
+
+#footer h3 {
+  color: black;
+  text-align: center;
+}
+
+#footer i {
+  font-size: 2rem;
+  text-align: center;
+  color: #91684a;
+  padding: 1rem 0;
+}
+
+#footer h6 {
+  padding: 0.5rem 0;
+  font-family: "Open Sans", sans-serif;
+  color: black;
+}

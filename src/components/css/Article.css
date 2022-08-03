@@ -1,0 +1,12 @@
+img {
+  height: 70%;
+  width: 70%;
+}
+.article h5 {
+  color: white;
+  font-weight: normal;
+  font-family: "Open Sans", sans-serif;
+}
+.article {
+  padding: 3rem 0 3rem 0;
+}

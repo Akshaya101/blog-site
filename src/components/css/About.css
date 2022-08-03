@@ -1,0 +1,13 @@
+.about {
+  padding-top: 10rem;
+  margin-bottom: 5rem;
+}
+.about p {
+  color: black;
+  font-family: "Open Sans", sans-serif;
+}
+.about h3 {
+  color: black;
+  margin: 1.5rem 0;
+  font-family: "Noto Sans JP", sans-serif;
+}

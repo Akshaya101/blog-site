@@ -1,0 +1,28 @@
+.title {
+  background-color: #f0ebcc;
+  padding: 13rem 13rem;
+}
+.button,
+p {
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+}
+.content {
+  margin: 2rem 5rem;
+  color: black;
+}
+#button-specifics {
+  background-color: #f4623a;
+  border-radius: 5rem;
+  padding: 15px 0px 15px 0px;
+  transition-duration: 0.1s;
+  font-family: "Open Sans", sans-serif;
+}
+#button-specific:hover {
+  background-color: white;
+}
+
+/*
+styling for p and navbar elements
+font-family: 'Open Sans', sans-serif;
+*/

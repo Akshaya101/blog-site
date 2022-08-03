@@ -1,0 +1,12 @@
+img {
+  height: 70%;
+  width: 70%;
+}
+h5 {
+  color: black;
+  font-weight: normal;
+  font-family: "Open Sans", sans-serif;
+}
+.blog {
+  padding: 3rem 0 3rem 0;
+}

@@ -1,0 +1,16 @@
+h3 {
+  text-align: left;
+  color: white;
+  font-weight: bold;
+}
+.articles-section {
+  background-color: #f4623a;
+  padding-bottom: 2rem;
+}
+.articles-section h3 {
+  padding-top: 5rem;
+}
+p {
+  text-align: left;
+  color: white;
+}

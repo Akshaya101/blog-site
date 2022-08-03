@@ -1,0 +1,39 @@
+.contact {
+  padding-top: 10rem;
+  margin-bottom: 5rem;
+}
+.contact label {
+  color: black;
+  font-size: 1rem;
+  font-family: "Noto Sans JP", sans-serif;
+  padding: 0.5rem 0;
+}
+.contact input {
+  font-family: "Noto Sans JP", sans-serif;
+  border: 1px solid grey;
+  padding-left: 5px;
+  border-radius: 0px;
+  outline: none !important;
+}
+.contact input::selection {
+  background-color: lightgray;
+}
+.contact h3 {
+  color: black;
+  margin: 1.5rem 0;
+}
+
+.contact textarea {
+  border: 1px solid grey;
+  padding-left: 5px;
+  font-family: "Athiti", sans-serif;
+  border-radius: 0px;
+}
+.contact .btn {
+  border-radius: 0px;
+  border: 0px;
+  background-color: #91684a;
+  color: #fff;
+  margin-top: 1rem;
+  font-family: "Athiti", sans-serif;
+}

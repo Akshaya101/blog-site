@@ -1,0 +1,21 @@
+#features {
+  text-align: center;
+  padding: 8rem 0;
+  background-color: white;
+  /* position:relative; */
+}
+#features i {
+  color: #91684a;
+  font-size: 3rem;
+}
+#features h4 {
+  font-weight: bold;
+  padding: 1rem;
+  font-size: 1.3rem;
+}
+#features p {
+  font-family: "Open Sans", sans-serif;
+  line-height: normal;
+  text-align: center;
+  color: black;
+}
